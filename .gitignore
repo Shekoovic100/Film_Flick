@@ -5,6 +5,8 @@
 ## User settings
 xcuserdata/
 
+*.DS_Store
+
 ## Obj-C/Swift specific
 *.hmap
 
@@ -15,6 +17,8 @@ xcuserdata/
 
 Keys.plist
 *.xcconfig
+
+
 
 ## Playgrounds
 timeline.xctimeline
