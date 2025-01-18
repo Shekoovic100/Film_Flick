@@ -1,0 +1,10 @@
+//
+//  Config.xcconfig
+//  MoviesApp
+//
+//  Created by sherif on 18/01/2025.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+MOVIEDB_API_KEY = a5f1b980a72b26fba552d7fdb96a1390
