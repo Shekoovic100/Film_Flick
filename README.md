@@ -9,7 +9,14 @@ Film Flick is a (SwiftUI) modern mobile application for discovering and tracking
 - High-resolution image support for movie posters using Kingfisher.
 - using modern networking using async / await
 - Using TMDB API's
+  
+## Screenshots
 
+<img src="https://github.com/user-attachments/assets/f443b77b-29e8-41f9-873c-7ecb48a236be" alt="Home Screen" width="180"/>
+<img src="https://github.com/user-attachments/assets/52baa837-899a-4290-be0f-09951ef75775" alt="Home Screen" width="180"/>
+<img src="https://github.com/user-attachments/assets/f338b27e-8936-4d24-a01b-f44197afe6dc" alt="Home Screen" width="180"/>
+<img src="https://github.com/user-attachments/assets/bed4b66e-5524-4ca9-8f5a-cec7843ac5d6" alt="Home Screen" width="180"/>
+<img src="https://github.com/user-attachments/assets/6c4ffb9b-c9b3-46af-8c43-bbbe3ad5e578" alt="Home Screen" width="180"/>
 ## Features
 
 ### 1. Discover Movies
@@ -70,16 +77,6 @@ Current featured collections include:
 - iOS devices
 - Compatible with latest iOS versions
 
-## Screenshots
-
-<img src="https://github.com/user-attachments/assets/f443b77b-29e8-41f9-873c-7ecb48a236be" alt="Home Screen" width="180"/>
-<img src="https://github.com/user-attachments/assets/52baa837-899a-4290-be0f-09951ef75775" alt="Home Screen" width="180"/>
-<img src="https://github.com/user-attachments/assets/f338b27e-8936-4d24-a01b-f44197afe6dc" alt="Home Screen" width="180"/>
-<img src="https://github.com/user-attachments/assets/bed4b66e-5524-4ca9-8f5a-cec7843ac5d6" alt="Home Screen" width="180"/>
-<img src="https://github.com/user-attachments/assets/6c4ffb9b-c9b3-46af-8c43-bbbe3ad5e578" alt="Home Screen" width="180"/>
-
-
-![Simulator Screenshot - iPhone 11 - 2025-01-18 at 15 48 24]()
 
 
 ---
