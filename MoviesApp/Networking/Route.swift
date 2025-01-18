@@ -12,7 +12,7 @@ enum Route {
     
     static let BaseURL = "https://api.themoviedb.org/3/"
     private var getAPIKey: String {
-        guard let apiKey = Bundle.main.object(forInfoDictionaryKey: "kisekyon") as? String else {return ""}
+        guard let apiKey = Bundle.main.object(forInfoDictionaryKey: "kisekyons") as? String else {return ""}
         return apiKey
     }
     case getMovieDetail(Int)
