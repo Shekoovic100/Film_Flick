@@ -9,6 +9,7 @@ Film Flick is a (SwiftUI) modern mobile application for discovering and tracking
 - High-resolution image support for movie posters using Kingfisher.
 - using modern networking using async / await
 - Using TMDB API's
+- Using SPM to add Dependancy 
   
 ## Screenshots
 
