@@ -578,7 +578,6 @@
 		6B78C26E2BEA036F00539834 /* MoviesApp */ = {
 			isa = PBXGroup;
 			children = (
-				E01C70832D3BC94C006E22D3 /* Config.xcconfig */,
 				6BAD90692C1980C4002C0B85 /* Application */,
 				6B7F24252BFDE72F005A1B61 /* Networking */,
 				6B0657C52C05A81B003215D5 /* Components */,
@@ -638,6 +637,7 @@
 		6B7F24252BFDE72F005A1B61 /* Networking */ = {
 			isa = PBXGroup;
 			children = (
+				E01C70832D3BC94C006E22D3 /* Config.xcconfig */,
 				6B7F24262BFDEC0F005A1B61 /* APIError.swift */,
 				6B7F24282BFDED03005A1B61 /* NetworkingManagerProtocol.swift */,
 				6B7F242A2BFDEF93005A1B61 /* APIClient.swift */,
